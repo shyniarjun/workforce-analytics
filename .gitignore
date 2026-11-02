@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+# Generated data — regenerate with the generator scripts
+data/
